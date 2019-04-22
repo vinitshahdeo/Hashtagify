@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* Mobile view */
+@media screen and (min-width: 300px) and (max-width: 700px) {
+
+.dropzone {
+    max-width: 80%;
+}
+
+.info {
+    margin-top: 30%;
+}
+
+.status {
+    width: 80%;
+}
+
+.image-url {
+    width: 80%;
+}
+
+.loading-table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50%;
+    margin-bottom: 50%;
+}
+}
