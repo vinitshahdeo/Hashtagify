@@ -37,8 +37,15 @@
 
 # Hashtagify
 
+http://www.github.com/jobtweets
+
+@ShreyaAnand
+
 ## Generate [#Hashtags]() for your next [Instagram]() Post!
 
+```
+<button v-on:click="count++">{{ count }}</button> people love Docute.
+```
 
 [![Hashtagify](https://img.shields.io/badge/Hashtagify-dodgerblue.svg?style=flat&logo=instagram&logoColor=white)](http://githublookbook.com) [![Google Vision](https://img.shields.io/badge/Vision-API-critical.svg?style=flat&logo=google&logoColor=white)](http://githublookbook.com) [![Imgur API](https://img.shields.io/badge/Imgur-API-critical.svg?style=flat&logo=highly&logoColor=white)](http://githublookbook.com)
 
