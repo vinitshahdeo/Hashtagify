@@ -1,4 +1,3 @@
-![#](https://cdn-images-1.medium.com/max/1600/1*XPpoo_5jt2_EngZSdgZS2Q.png)
 
 ```javascript
 
@@ -20,6 +19,8 @@
 [![Hashtagify](https://img.shields.io/badge/Hashtagify-dodgerblue.svg?style=flat&logo=instagram&logoColor=white)](http://githublookbook.com) [![Google Vision](https://img.shields.io/badge/Vision-API-critical.svg?style=flat&logo=google&logoColor=white)](http://githublookbook.com) [![Imgur API](https://img.shields.io/badge/Imgur-API-critical.svg?style=flat&logo=highly&logoColor=white)](http://githublookbook.com)
 
 > **A web app which suggests hashtags for your picture! It might help you to come up with relevant [#hashtags]() for your next [Instagram]() post :p and it may get more eyes on your Instagram posts.**
+
+![#](https://cdn-images-1.medium.com/max/1600/1*XPpoo_5jt2_EngZSdgZS2Q.png)
 
 ### APIs Used
 
