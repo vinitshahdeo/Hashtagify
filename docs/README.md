@@ -85,7 +85,8 @@ MIT &copy; [Vinit Shahdeo](https://github.com/vinitshahdeo/Hashtagify/blob/maste
 ╠═╣╠═╣╚═╗╠═╣ ║ ╠═╣║ ╦║╠╣ ╚╦╝
 ╩ ╩╩ ╩╚═╝╩ ╩ ╩ ╩ ╩╚═╝╩╚   ╩ 
 
-
+```
+```javascript
 if (isAwesome) {
     // thanks in advance :p
     starThisRepository();
