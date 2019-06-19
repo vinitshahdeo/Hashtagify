@@ -40,6 +40,8 @@ new Imgur({
 ```
 - Get API keys for Google Vision API.
 
+- Replace `XXXXXXXX` with your API keys in `upload.js`
+
 ```javascript
 
 var settings = {
@@ -57,8 +59,6 @@ var settings = {
     }
 
 ```
-
-- Replace `XXXXXXXX` with your API keys [here]().
 
 - Now open `index.html`
 
