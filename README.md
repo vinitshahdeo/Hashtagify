@@ -21,6 +21,38 @@
 
 > **A web app which suggests hashtags for your picture! It might help you to come up with relevant [#hashtags]() for your next [Instagram]() post :p and it may get more eyes on your Instagram posts.**
 
+### APIs Used
+
+- [Google Vision API]()
+- [Imgur API]()
+
+### Getting Started
+
+- Get your own clientID [here]().
+- Replace `XXXXXXXXX` with your clientID [here](https://github.com/carry0987/Imgur-Upload/blob/master/js/upload.js#L11) :
+
+```javascript
+new Imgur({ 
+    clientid: '4409588f10776f7', //You can change this ClientID
+    callback: feedback 
+});
+```
+- Get API keys for Google Vision API.
+
+- Replace `XXXXXXXX` with your API keys [here]().
+
+- Now open `index.html`
+
+### Need Help ?
+
+
+
+### License
+
+MIT [Vinit Shahdeo]()
+
+---------
+
 ```javascript
 
 ╦ ╦╔═╗╔═╗╦ ╦╔╦╗╔═╗╔═╗╦╔═╗╦ ╦
@@ -35,14 +67,6 @@ if (isAwesome) {
 
 ```
 
+-----------
 
-
-## Usage
-If you want to use your own clientID , you can change it [here](https://github.com/carry0987/Imgur-Upload/blob/master/js/upload.js#L11) :
-```
-new Imgur({ 
-    clientid: '4409588f10776f7', //You can change this ClientID
-    callback: feedback 
-});
-```
 
