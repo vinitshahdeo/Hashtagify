@@ -1,5 +1,5 @@
 
-```javascript
+```
 
     _  _   _    _           _     _              _  __       
   _| || |_| |  | |         | |   | |            (_)/ _|      
@@ -20,7 +20,7 @@
 
 ![Hashtagify](https://github.com/vinitshahdeo/Hashtagify/blob/master/hashtagify.gif?raw=true)
 
-> **A web app which suggests hashtags for your picture! It might help you to come up with relevant <kbd>[#hashtags](https://github.com/vinitshahdeo/Hashtagify)</kbd> for your next [Instagram](https://www.instagram.com/vinitshahdeo/) post :p and it may get more eyes on your Instagram posts.**
+> **A web app which suggests hashtags for your picture! It might help you to come up with relevant [#hashtags](https://github.com/vinitshahdeo/Hashtagify) for your next [Instagram](https://www.instagram.com/vinitshahdeo/) post :p and it may get more eyes on your Instagram posts.**
 
 ![#](https://cdn-images-1.medium.com/max/1600/1*XPpoo_5jt2_EngZSdgZS2Q.png)
 
@@ -79,7 +79,7 @@ MIT &copy; [Vinit Shahdeo](https://github.com/vinitshahdeo/Hashtagify/blob/maste
 
 ---------
 
-```javascript
+```
 
 ╦ ╦╔═╗╔═╗╦ ╦╔╦╗╔═╗╔═╗╦╔═╗╦ ╦
 ╠═╣╠═╣╚═╗╠═╣ ║ ╠═╣║ ╦║╠╣ ╚╦╝
