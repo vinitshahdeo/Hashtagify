@@ -12,42 +12,26 @@
                                            |___/       |___/ 
 
 ```
+
+[![Hashtagify](https://img.shields.io/badge/Hashtagify-dodgerblue.svg?style=flat&logo=instagram&logoColor=white)](http://githublookbook.com) [![Google Vision](https://img.shields.io/badge/Vision-API-critical.svg?style=flat&logo=google&logoColor=white)](http://githublookbook.com) [![Imgur API](https://img.shields.io/badge/Imgur-API-critical.svg?style=flat&logo=highly&logoColor=white)](http://githublookbook.com)
 <p style='color:red'>This is some red text.</p>
 
-<font color="red">This is some text!</font>
 
-```diff
-+ this will be highlighted in green
-- this will be highlighted in red
-```
-
-```json
-   // code for coloring
-```
-```html
-   // code for coloring
-```
-```js
-   // code for coloring
-```
-```css
-   // code for coloring
-```
-// etc.
 
 # Hashtagify
 
-http://www.github.com/jobtweets
+## Generate <kbd>[#Hashtags]()</kbd> for your next [Instagram]() Post!
 
-@ShreyaAnand
-
-## Generate [#Hashtags]() for your next [Instagram]() Post!
+> **A web app which suggests hashtags for your picture! It might help you to come up with relevant [#hashtags]() for your next [Instagram]() post :p and it may get more eyes on your Instagram posts.**
 
 ```
-<button v-on:click="count++">{{ count }}</button> people love Docute.
+╦ ╦╔═╗╔═╗╦ ╦╔╦╗╔═╗╔═╗╦╔═╗╦ ╦
+╠═╣╠═╣╚═╗╠═╣ ║ ╠═╣║ ╦║╠╣ ╚╦╝
+╩ ╩╩ ╩╚═╝╩ ╩ ╩ ╩ ╩╚═╝╩╚   ╩ 
+
 ```
 
-[![Hashtagify](https://img.shields.io/badge/Hashtagify-dodgerblue.svg?style=flat&logo=instagram&logoColor=white)](http://githublookbook.com) [![Google Vision](https://img.shields.io/badge/Vision-API-critical.svg?style=flat&logo=google&logoColor=white)](http://githublookbook.com) [![Imgur API](https://img.shields.io/badge/Imgur-API-critical.svg?style=flat&logo=highly&logoColor=white)](http://githublookbook.com)
+
 
 ## Usage
 If you want to use your own clientID , you can change it [here](https://github.com/carry0987/Imgur-Upload/blob/master/js/upload.js#L11) :
@@ -58,8 +42,3 @@ new Imgur({
 });
 ```
 
-## Demo
-[Demo](https://carry0987.github.io/Imgur-Upload/)
-
-## Download
-[Link](https://github.com/carry0987/Imgur-Upload/releases/)
