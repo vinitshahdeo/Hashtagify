@@ -40,6 +40,24 @@ new Imgur({
 ```
 - Get API keys for Google Vision API.
 
+```javascript
+
+var settings = {
+      "async": true,
+      "crossDomain": true,
+      // change the key below
+      "url": "https://vision.googleapis.com/v1/images:annotate?key=XXXXXXXXXXXXXXXXXXX",
+      "method": "POST",
+      "headers": {
+        "Content-Type": "application/json",
+        "cache-control": "no-cache"
+      },
+      "processData": false,
+      "data": str
+    }
+
+```
+
 - Replace `XXXXXXXX` with your API keys [here]().
 
 - Now open `index.html`
