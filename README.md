@@ -14,18 +14,19 @@
 
 # Hashtagify
 
-## Generate <kbd>[#Hashtags]()</kbd> for your next [Instagram]() Post!
+## Generate [#Hashtags](https://github.com/vinitshahdeo/Hashtagify) for your next [Instagram]() Post!
 
 [![Hashtagify](https://img.shields.io/badge/Hashtagify-dodgerblue.svg?style=flat&logo=instagram&logoColor=white)](http://githublookbook.com) [![Google Vision](https://img.shields.io/badge/Vision-API-critical.svg?style=flat&logo=google&logoColor=white)](https://cloud.google.com/vision/docs/quickstart) [![Imgur API](https://img.shields.io/badge/Imgur-API-critical.svg?style=flat&logo=highly&logoColor=white)](http://githublookbook.com)
 
-> **A web app which suggests hashtags for your picture! It might help you to come up with relevant [#hashtags]() for your next [Instagram]() post :p and it may get more eyes on your Instagram posts.**
+> **A web app which suggests hashtags for your picture! It might help you to come up with relevant <kbd>[#hashtags](https://github.com/vinitshahdeo/Hashtagify)</kbd> for your next [Instagram]() post :p and it may get more eyes on your Instagram posts.**
 
 ![#](https://cdn-images-1.medium.com/max/1600/1*XPpoo_5jt2_EngZSdgZS2Q.png)
 
 ### APIs Used
 
-- [Google Vision API](https://cloud.google.com/vision/docs/quickstart)
-- [Imgur API](https://github.com/carry0987/Imgur-Upload/)
+- [Google Vision API](https://cloud.google.com/vision/docs/quickstart) - Google Cloud’s Vision API offers powerful pre-trained machine learning models through REST and RPC APIs.
+
+- [Imgur API](https://github.com/carry0987/Imgur-Upload/) - Imgur's API exposes the entire Imgur infrastructure via a standardized programmatic interface. Using Imgur's API, you can do just about anything you can do on imgur.com, while using your programming language of choice.
 
 ### Getting Started
 
@@ -66,7 +67,7 @@ var settings = {
 
 [![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@vinit.shahdeo&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/vinit.shahdeo)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@vinitshahdeo&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/vinitshahdeo/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@vinitshahdeo&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/vinitshahdeo/)
 
-:email: Feel free to contact me @ [vinitshahdeo@gmail.com](https://mail.google.com/mail/)
+:email: Feel free to contact me via email.
 
 [![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=vinitshahdeo@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/vinitshahdeo)
 
