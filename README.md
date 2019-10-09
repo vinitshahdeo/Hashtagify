@@ -12,7 +12,7 @@
 
 ```
 
-# Hashtagify
+# [Hashtagify](https://github.com/vinitshahdeo/Hashtagify)
 
 [![Hashtagify](https://img.shields.io/badge/Hashtagify-dodgerblue.svg?style=flat&logo=instagram&logoColor=white)](https://github.com/vinitshahdeo/Hashtagify) [![Google Vision](https://img.shields.io/badge/Vision-API-critical.svg?style=flat&logo=google&logoColor=white)](https://cloud.google.com/vision/docs/quickstart) [![Imgur API](https://img.shields.io/badge/Imgur-API-critical.svg?style=flat&logo=highly&logoColor=white)](https://api.imgur.com/)
 
