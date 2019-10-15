@@ -24,6 +24,12 @@
 
 ![#](https://cdn-images-1.medium.com/max/1600/1*XPpoo_5jt2_EngZSdgZS2Q.png)
 
+### How does it work ?
+The Googls AutoML Detects and classifies multiple objects including the location of each object within the image automatically. With the help of Googls vast database the results are very accurate.
+
+Learn more about [AutoML Vision](https://cloud.google.com/vision/automl/object-detection/docs/)
+
+
 ### APIs Used
 
 - [Google Vision API](https://cloud.google.com/vision/docs/quickstart) - Google Cloud’s Vision API offers powerful pre-trained machine learning models through REST and RPC APIs.
