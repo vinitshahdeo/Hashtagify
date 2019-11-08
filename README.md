@@ -26,14 +26,14 @@
 
 ### APIs Used
 
-- [Google Vision API](https://cloud.google.com/vision/docs/quickstart) - Google Cloud’s Vision API offers powerful pre-trained machine learning models through REST and RPC APIs.
+- *[Google Vision API](https://cloud.google.com/vision/docs/quickstart) - Google Cloud’s Vision API offers powerful pre-trained machine learning models through REST and RPC APIs.*
 
-- [Imgur API](https://api.imgur.com/) - Imgur's API exposes the entire Imgur infrastructure via a standardized programmatic interface. Using Imgur's API, you can do just about anything you can do on imgur.com, while using your programming language of choice.
+- *[Imgur API](https://api.imgur.com/) - Imgur's API exposes the entire Imgur infrastructure via a standardized programmatic interface. Using Imgur's API, you can do just about anything you can do on imgur.com, while using your programming language of choice.*
 
 ### Getting Started
 
-- Get your own imgur clientID [here](https://api.imgur.com/endpoints/image).
-- Replace `XXXXXXXXX` with your clientID in `js/upload.js`.
+- **Get your own imgur clientID [here](https://api.imgur.com/endpoints/image).**
+- **Replace `XXXXXXXXX` with your clientID in `js/upload.js`.**
 
 ```javascript
 new Imgur({ 
@@ -41,9 +41,9 @@ new Imgur({
     callback: feedback 
 });
 ```
-- Get API keys for [Google Cloud Vision API](https://cloud.google.com/vision/docs/quickstart).
+- **Get API keys for [Google Cloud Vision API](https://cloud.google.com/vision/docs/quickstart).**
 
-- Replace `XXXXXXXX` with your API keys in `js/upload.js`
+- **Replace `XXXXXXXX` with your API keys in `js/upload.js`**
 
 ```javascript
 
@@ -69,13 +69,13 @@ var settings = {
 
 [![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@vinit.shahdeo&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/vinit.shahdeo)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@vinitshahdeo&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/vinitshahdeo/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@vinitshahdeo&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/vinitshahdeo/)
 
-:email: Feel free to contact me via email.
+:email: **Feel free to contact me via email.**
 
 [![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=vinitshahdeo@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/vinitshahdeo)
 
 ### License
 
-MIT &copy; [Vinit Shahdeo](https://github.com/vinitshahdeo/Hashtagify/blob/master/LICENSE)
+**MIT &copy; [Vinit Shahdeo](https://github.com/vinitshahdeo/Hashtagify/blob/master/LICENSE)**
 
 [![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/images/0)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/links/0)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/images/1)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/links/1)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/images/2)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/links/2)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/images/3)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/links/3)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/images/4)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/links/4)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/images/5)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/links/5)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/images/6)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/links/6)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/images/7)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/links/7)
 
