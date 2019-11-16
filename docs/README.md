@@ -18,7 +18,7 @@
 
 ## Generate [#Hashtags](https://github.com/vinitshahdeo/Hashtagify) for your next [Instagram](https://www.instagram.com/vinitshahdeo/) Post!
 
-![Hashtagify](./hashtagify.gif)
+![Hashtagify](../hashtagify.gif)
 
 > **A web app which suggests hashtags for your picture! It might help you to come up with relevant <kbd>[#hashtags](https://github.com/vinitshahdeo/Hashtagify)</kbd> for your next [Instagram](https://www.instagram.com/vinitshahdeo/) post :p and it may get more eyes on your Instagram posts.**
 
