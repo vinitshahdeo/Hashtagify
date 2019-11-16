@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
 show_downloads: true
 title: #Hashtagify
+description: Generates hashtags for instagram posts. Upload your photo and it will suggest the relevant hashtags for you.
