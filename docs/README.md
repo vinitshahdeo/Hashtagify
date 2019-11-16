@@ -1,5 +1,5 @@
 
-```
+```javascript
 
     _  _   _    _           _     _              _  __       
   _| || |_| |  | |         | |   | |            (_)/ _|      
@@ -12,15 +12,15 @@
 
 ```
 
-# #Hashtagify
+# Hashtagify
 
 [![Hashtagify](https://img.shields.io/badge/Hashtagify-dodgerblue.svg?style=flat&logo=instagram&logoColor=white)](https://github.com/vinitshahdeo/Hashtagify) [![Google Vision](https://img.shields.io/badge/Vision-API-critical.svg?style=flat&logo=google&logoColor=white)](https://cloud.google.com/vision/docs/quickstart) [![Imgur API](https://img.shields.io/badge/Imgur-API-critical.svg?style=flat&logo=highly&logoColor=white)](https://api.imgur.com/)
 
 ## Generate [#Hashtags](https://github.com/vinitshahdeo/Hashtagify) for your next [Instagram](https://www.instagram.com/vinitshahdeo/) Post!
 
-![Hashtagify](https://github.com/vinitshahdeo/Hashtagify/blob/master/hashtagify.gif?raw=true)
+![Hashtagify](./hashtagify.gif)
 
-> **A web app which suggests hashtags for your picture! It might help you to come up with relevant [#hashtags](https://github.com/vinitshahdeo/Hashtagify) for your next [Instagram](https://www.instagram.com/vinitshahdeo/) post :p and it may get more eyes on your Instagram posts.**
+> **A web app which suggests hashtags for your picture! It might help you to come up with relevant <kbd>[#hashtags](https://github.com/vinitshahdeo/Hashtagify)</kbd> for your next [Instagram](https://www.instagram.com/vinitshahdeo/) post :p and it may get more eyes on your Instagram posts.**
 
 ![#](https://cdn-images-1.medium.com/max/1600/1*XPpoo_5jt2_EngZSdgZS2Q.png)
 
@@ -69,7 +69,7 @@ var settings = {
 
 [![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@vinit.shahdeo&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/vinit.shahdeo)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@vinitshahdeo&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/vinitshahdeo/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@vinitshahdeo&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/vinitshahdeo/)
 
-Feel free to contact me via email.
+:email: Feel free to contact me via email.
 
 [![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=vinitshahdeo@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/vinitshahdeo)
 
@@ -77,10 +77,17 @@ Feel free to contact me via email.
 
 MIT &copy; [Vinit Shahdeo](https://github.com/vinitshahdeo/Hashtagify/blob/master/LICENSE)
 
+[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/images/0)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/links/0)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/images/1)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/links/1)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/images/2)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/links/2)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/images/3)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/links/3)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/images/4)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/links/4)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/images/5)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/links/5)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/images/6)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/links/6)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/images/7)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/links/7)
+
 ---------
 
-
 ```javascript
+
+╦ ╦╔═╗╔═╗╦ ╦╔╦╗╔═╗╔═╗╦╔═╗╦ ╦
+╠═╣╠═╣╚═╗╠═╣ ║ ╠═╣║ ╦║╠╣ ╚╦╝
+╩ ╩╩ ╩╚═╝╩ ╩ ╩ ╩ ╩╚═╝╩╚   ╩ 
+
+
 if (isAwesome) {
     // thanks in advance :p
     starThisRepository();
@@ -88,14 +95,4 @@ if (isAwesome) {
 
 ```
 
-```
-
-╦ ╦╔═╗╔═╗╦ ╦╔╦╗╔═╗╔═╗╦╔═╗╦ ╦
-╠═╣╠═╣╚═╗╠═╣ ║ ╠═╣║ ╦║╠╣ ╚╦╝
-╩ ╩╩ ╩╚═╝╩ ╩ ╩ ╩ ╩╚═╝╩╚   ╩ 
-
-```
-
 -----------
-
-
