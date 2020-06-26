@@ -75,6 +75,8 @@ var settings = {
 
 ### License
 
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvinitshahdeo%2FHashtagify.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvinitshahdeo%2FHashtagify?ref=badge_large)
+
 MIT &copy; [Vinit Shahdeo](https://github.com/vinitshahdeo/Hashtagify/blob/master/LICENSE)
 
 [![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/images/0)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/links/0)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/images/1)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/links/1)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/images/2)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/links/2)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/images/3)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/links/3)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/images/4)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/links/4)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/images/5)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/links/5)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/images/6)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/links/6)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/images/7)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Hashtagify/links/7)
