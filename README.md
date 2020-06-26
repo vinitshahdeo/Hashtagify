@@ -1,4 +1,3 @@
-
 ```javascript
 
     _  _   _    _           _     _              _  __       
@@ -15,6 +14,7 @@
 # Hashtagify
 
 [![Hashtagify](https://img.shields.io/badge/Hashtagify-dodgerblue.svg?style=flat&logo=instagram&logoColor=white)](https://github.com/vinitshahdeo/Hashtagify) [![Google Vision](https://img.shields.io/badge/Vision-API-critical.svg?style=flat&logo=google&logoColor=white)](https://cloud.google.com/vision/docs/quickstart) [![Imgur API](https://img.shields.io/badge/Imgur-API-critical.svg?style=flat&logo=highly&logoColor=white)](https://api.imgur.com/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvinitshahdeo%2FHashtagify.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvinitshahdeo%2FHashtagify?ref=badge_shield)
 
 ## Generate [#Hashtags](https://github.com/vinitshahdeo/Hashtagify) for your next [Instagram](https://www.instagram.com/vinitshahdeo/) Post!
 
@@ -98,3 +98,6 @@ if (isAwesome) {
 -----------
 
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvinitshahdeo%2FHashtagify.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvinitshahdeo%2FHashtagify?ref=badge_large)
