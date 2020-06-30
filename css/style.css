@@ -103,14 +103,14 @@ h2 {
   font-family: "Montserrat", sans-serif;
   font-size: 26px;
   line-height: 1;
-  color: #454cad;
+  color: #45ada1;
   margin-bottom: 0;
 }
 
 p {
   font-family: "Montserrat", sans-serif;
   font-size: 18px;
-  color: #5f6982;
+  color: ##825f78;
 }
 
 .uploader {
@@ -136,7 +136,7 @@ p {
           user-select: none;
 }
 .uploader label:hover {
-  border-color: #454cad;
+  border-color: #f20f0f;
 }
 .uploader label.hover {
   border: 3px solid #454cad;
