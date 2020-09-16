@@ -13,7 +13,7 @@ body.loading .loading-modal {
 }
 
 .dropzone {
-    border: 4px dashed #2196F3;
+    border: 5px solid #2196F3;
     height: 200px;
     position: relative;
     margin-right: auto;
@@ -22,7 +22,7 @@ body.loading .loading-modal {
 }
 
 .info {
-    margin-top: 11%;
+    margin-top: 15%;
 }
 
 .dropzone p {
