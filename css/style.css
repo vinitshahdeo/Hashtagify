@@ -2,7 +2,7 @@
 
 /* Imgur Upload Style */
 
-body.loading .loading-modal {
+body.loading.loading-modal {
     display: block
 }
 
@@ -82,7 +82,7 @@ body.loading .loading-modal {
 }
 
 
-@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css);
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Montserrat");
 html, body, * {
   box-sizing: border-box;
@@ -135,7 +135,7 @@ p {
       -ms-user-select: none;
           user-select: none;
 }
-.uploader label:hover {
+.uploader label.hover {
   border-color: #454cad;
 }
 .uploader label.hover {
